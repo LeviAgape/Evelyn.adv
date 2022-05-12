@@ -1,0 +1,61 @@
+header{
+	background: #CDB38B	;
+	padding: 20px;
+
+}
+
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.foto{
+	position: relative;
+	width: 400px;
+	right: 100px;
+	left: 650px;
+		 
+}
+
+
+nav{
+	 position: relative;
+	 top: 0px ;
+	 right: 0;
+}
+
+nav li{
+	 display: inline;
+	 font-size: 25px;
+	 margin: 0 0 5 20;
+
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+
+h2{
+	padding:5px;
+}
+
+.descricao{
+	display: inline-block;
+	vertical-align: top;
+	width: 15%;
+	margin-right: 10%;
+	
+	font-size: 25px;
+}
+
+
+.cartao{
+	width:45%;
+}
+ 
+
